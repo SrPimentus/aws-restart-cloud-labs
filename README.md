@@ -92,7 +92,6 @@ Cada projeto possui seu próprio README, seguindo um padrão consistente:
 |:----------|:--------|
 | 💼 **LinkedIn** | <a href="https://www.linkedin.com/in/lucaspimentabarretto" target="_blank">linkedin.com/in/lucaspimentabarretto</a> |
 | 💻 **GitHub** | <a href="https://github.com/LucasPBar" target="_blank">github.com/LucasPBar</a> |
-| 📧 **E-mail** | <a href="mailto:lucaspimenta1805@gmail.com">lucaspimenta1805@gmail.com</a> |
 
 ---
 
